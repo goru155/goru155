@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on an Iot based project and usually make websites<br>I am a first year engineering graduate <br>I would like to collaborate on AI based projects and full-stack developement<br>Fun fact- I am a tech nerd<br>
+I am currently working on an Iot based project and usually make websites<br>I am a second year engineering graduate <br>I would like to collaborate on AI based projects and full-stack developement<br>Fun fact- I am a tech nerd<br>
 
 
 ## 🌐 Socials:
